@@ -241,7 +241,7 @@ if config.HEROKU_APP_NAME:
 async def bot_(client, message):
     key_board = [
         InlineKeyboardButton(
-            text="Source Code", url="https://github.com/DevsExpo/GitAlertBot"
+            text="Source Code", url="https://t.me/snehabhi_server"
         ),
     ]
     file = "https://i.makeagif.com/media/2-18-2016/M3yKm-.gif"
